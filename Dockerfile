@@ -1,6 +1,6 @@
 FROM php:7.2-apache
 
-MAINTAINER kotlindev <https://blog.jkdev.cn>
+MAINTAINER jkdev <https://blog.jkdev.cn>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV DEBCONF_NOWARNINGS yes

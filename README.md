@@ -14,7 +14,7 @@
 
 | 分支名      | 镜像名及tag | 镜像地址 |
 | ----------- | ----------- | ----------- |
-| php-7.3-fpm-alpine      | jkdev/php:7.3-fpm-alpine       | https://hub.docker.com/repository/docker/jkdev/php       |
+| master      | jkdev/latest       | https://hub.docker.com/repository/docker/jkdev/php       |
 | php-7.2-apache   | jkdev/php:7.2-apache        | https://hub.docker.com/repository/docker/jkdev/php        |
 
 
